@@ -1,2 +1,8 @@
 # CelestialSymphony
 Aurora is a breathtaking symphony of lights across the night sky. The sky is a living canvas, with the Sun and Earth as the artists. Celestial Symphony is a simple FOSS app to track and enjoy this magic without bloat or privacy-invading tracking.
+
+## Why?
+I follow Auroras but all the apps on play store that I tried connect to a lot of domains that have nothing to do with the Sky or the Aurora or rendering map. They display ads, send my location data and other data to more than one ads aggregators. So I did not use these apps, or removed them immediately after an Aurora event. I aim to use FOSS and open technologies and APIs to make this app useful to the few privacy conscious people like me. I think I may add options to connect to non-open or non-FOSS type data sources in future which would be opted out by default.
+
+## Contributions
+I haven't developed any meaningful android app in years. I developed a lot of them during my degree coursework using Java (Java was my preferred language for everything then, and Kotlin or Flutter were not released or were in early stages then). When I started reading about ways to develop android apps again I felt like Flutter reduces my work a lot by being built in a cross-platform way. I am most comfortable with Python today and I was delighted to find the Flet project which uses Flutter, but with Python instead of Dart at the back end. I think that Flet is not used a lot in the industry, but it is actively being developed as an alternative. This project will be developed using Flet (Unless I realize on the way that its not working for what I am doing). Contributions are very welcome. I would appreciate bug reports and issue reporting a lot too. 
