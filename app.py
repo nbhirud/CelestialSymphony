@@ -39,7 +39,7 @@ def main(page: ft.Page):
             bz_text.value = ""
             page.update()
 
-    refresh_btn = ft.ElevatedButton("Refresh Data", icon=ft.icons.REFRESH, on_click=fetch_data)
+    refresh_btn = ft.ElevatedButton("Refresh Data", icon=ft.Icons.REFRESH, on_click=fetch_data)
 
     page.add(
         ft.Column(
