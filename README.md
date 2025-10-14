@@ -1,6 +1,9 @@
 # CelestialSymphony
 Aurora is a breathtaking symphony of lights across the night sky. The sky is a living canvas, with the Sun and Earth as the artists. Celestial Symphony is a simple FOSS app to track and enjoy this magic without bloat or privacy-invading tracking.
 
+## Where to find this app
+The app is will be submitted to F-Droid when a working prototype is ready. Had created a Android app store page for myself long back, but Google seem to have disabled it because of inactivity and it looks like there is no straightforward way to reinstate the account. So be it.
+
 ## Why?
 I follow Auroras but all the apps on play store that I tried connect to a lot of domains that have nothing to do with the Sky or the Aurora or rendering map. They display ads, send my location data and other data to more than one ads aggregators. So I did not use these apps, or removed them immediately after an Aurora event. I aim to use FOSS and open technologies and APIs to make this app useful to the few privacy conscious people like me. I think I may add options to connect to non-open or non-FOSS type data sources in future which would be opted out by default.
 
