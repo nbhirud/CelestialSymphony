@@ -8,6 +8,7 @@ sh developer/dev_setup.sh
 
 If you would like to setup as the developer intended, run:
 ```
-wget -O - https://raw.githubusercontent.com/<username>/<project>/<branch>/<path>/<file> | sh
+wget -O - https://raw.githubusercontent.com/nbhirud/CelestialSymphony/refs/heads/main/developer/dev_setup.sh | sh
+
 ```
 
